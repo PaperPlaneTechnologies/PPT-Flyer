@@ -1,0 +1,155 @@
+@import url('//fonts.googleapis.com/css?family=Unica One');
+@import url('//fonts.googleapis.com/css?family=Oxygen');
+/* calc() for calculations */
+a:link, a:visited {
+    font-size: inherit;
+    line-height: inherit;
+    
+    width: 30%;
+    display: inherit;
+    
+    flex: inherit;
+    
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    box-shadow: 3px 3px 10px;
+    background-color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    background-color:rgba(112, 123, 88, 0.3);
+}
+.inLine{
+    flex: 1;
+    font-size: 100%;
+    font-family: Oxygen;
+    line-height: 150%;
+    background-color:rgba(245, 245, 220, .8);
+        
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    white-space:normal;
+    z-index: -9;
+}
+.infoCell{
+    font-size: 120%;
+    font-family: Oxygen;
+    line-height: 150%;
+    background-color:rgb(245, 245, 220);
+
+    margin: auto;
+    padding: 5%;
+    z-index: -8;
+}
+.infoHold {
+    width:80%;
+    margin: auto;
+    align-content: space-around;
+    padding: 1%;
+    background-color:rgba(245, 245, 220, .4);
+    box-shadow: 3px 3px 10px;
+    z-index: -9;
+}
+.hFill {
+    width: 100%;     
+    background-color:rgb(255, 250, 240);
+
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    
+    box-shadow: 3px 3px 10px;
+    
+    white-space:normal;
+    z-index: -9;
+}
+.cContent{
+    visibility: hidden;
+}
+h1.head {
+    font-family:'Unica One';
+    font-size: 400%;
+    text-align: left;
+}
+h1.small {
+    font-family:'Unica One';
+    font-size: 200%;
+    text-align: left; 
+}
+img.base{
+    width: 40%;
+    height: 30%;
+}
+/*----- buffers -----*/
+.hbuffer {
+    width:100%;
+    padding-top: 100px;
+}
+div.vbuffer {
+    align-content:center; 
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width:100%;
+}
+div.bvbuffer {
+    align-content:center; 
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width:100%;
+    background: -webkit-linear-gradient(rgba(255, 255, 255, 0.0), rgb(49, 49, 37));
+    background: -o-linear-gradient(rgba(255, 255, 255, 0.0), rgb(49, 49, 37));
+    background: -moz-linear-gradient(rgba(255, 255, 255, 0.0), rgb(49, 49, 37)); 
+    background: linear-gradient(rgba(255, 255, 255, 0.0), rgb(49, 49, 37));
+
+    align-content:center; 
+}
+.mvbuffer {
+    align-content:center; 
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    width:100%;
+}
+.center{
+    margin: auto;
+    width: 80%;
+    white-space: nowrap;
+}
+/*------    Tables  -----*/
+.thead {
+    text-align: center;
+    display: auto;
+    font-family:'Unica One';
+    font-size: 200%;
+    padding-left: 15px;
+    padding-top: 30px;
+    width: 100%;
+    max-width: 100%;
+    white-space: normal;
+}
+.tdata {
+    display: auto;
+    width: 80%;
+    font-size: 120%;
+    line-height: 150%;
+    white-space: normal;
+    font-family:'Oxygen';
+    padding: 20px;
+}
+.fcenter {
+    margin: auto;
+    width: 80%;
+    white-space: nowrap;
+    display: flex;
+}
+/* -----    Links   -----*/
+#products{
+    /*Link to Products mini*/
+}
+#ideas {
+    /*Link to ideas mini */
+}
+#support {
+    /*Link to projects mini*/
+}

@@ -1,0 +1,163 @@
+
+<?php require_once("header.php"); ?>
+
+<div class="vbuffer"></div>   
+
+<head>
+<title>Paper Plane Technologies</title>
+</head>
+
+<div class="center">
+    <div class="cContent">
+        
+        <a href="#support">
+        <div class="inLine">
+            Come see what we are working on and if you're excited about these projects as we are
+        </div>
+        </a>
+        <a href="#products">
+        <div class="inLine">
+            The PPT-<em>Flyer</em> is the most user intuitive calculator on the market so you don't have to waste hours learning your tool. Let us do the work instead so you can focus on your work
+        </div>
+        </a>
+        <a href="#ideas">
+        <div class="inLine"> 
+            Have an idea but don't possess the skills for it? Talk to us about making your idea come to life
+        </div>
+        </a>
+
+    </div>
+</div>
+
+<div class="vbuffer"></div>
+
+<div id="products"></div>
+
+<div itemscope itemtype="http://schema.org/Product" class="hFill">
+<!--    PPT-Flyer   -->
+    <div class="center">
+        <h1 class="head" >
+            Products
+        </h1>
+    </div>
+    <div class="fcenter">
+        <a href="download.php">
+        <div class="thead">
+            <span itemprop="name">PPT-<em>Flyer </em></span> <sup><small>1.0</small></sup>
+            <br><br><br><br><br>
+            <img align="center" src="PPT-Flyer.png" width=100% >
+        </div>
+        </a>
+        <div class="tdata">                        <!-- General -->
+            The PPT-<em>Flyer</em> is a new idea of a calculator. With its easy to learn user interface it will allow you to focus more on your studies rather than how your mathmatics tool works.
+            <br><br>
+            The PPT-<em>Flyer</em> is a Mathematics productivity software in its current build. Those who purchase will recieve all updates until final version and will recieve a discount on the hardware being designed for this software.
+            <br><br>
+            Current support
+            <ul style="list-style-type:circle">
+                <li>Addition, subtraction, multiplication, division, exponents</li>
+                <li>Trigonometry, statistics, variables, calculus, algebra, geometry</li>
+                <li>General graphing</li>
+                <li>Notes</li>
+                <li>List operations</li>
+                <li>Matrix operations</li>
+            </ul>
+            *Current build is a closed software beta. Those willing to support us will receive special thank you in the final build.
+        </div> 
+        <meta itemprop="description" content="Mathematics productivity software">
+<span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<meta itemprop="price" content="$30.00"></span>
+<span itemprop="brand" itemscope itemtype="http://schema.org/Brand">
+<meta itemprop="name" content="Paper Plane Technologies"></span>
+    </div>
+    <div class="vbuffer"></div>    
+</div>
+    
+<div class="vbuffer"></div>
+
+<div id="ideas"></div>
+    
+<div class="hFill">
+    <div class="center">
+        <h1 class="head" >
+        Ideas
+        </h1>
+    </div>
+    <div class="fcenter">
+        <a href="ideas.php">
+        <div class="thead">
+            Web Design
+        </div>
+        </a>
+        <div class="tdata">
+            Need to create a new website or redesign an existing one? Contact us about our contact web design. We provide the highest quality care and help your dream website become reality.
+        </div>
+    </div>
+    <div class="mvbuffer"></div>
+    <dive class="fcenter">
+    <a href="ideas.php">
+        <div class="thead">
+            Software Design    
+        </div>
+        </a>
+        <div class="tdata">
+            We pride ourself in knowing software. We understand that it is complex and sometimes overwhelming. If you have a vision for an application, contact us and we can make it identical to your vision.
+        </div>
+    </dive>
+    
+    <div class="vbuffer"></div>
+</div>
+
+<div class="vbuffer"></div>
+
+<div id="support"></div>
+
+<div class="hFill">
+    
+    <div class="center">
+        <h1 class="head">
+        Support Our Work
+        </h1>
+    </div>
+    <div class="fcenter">
+        <a href="download.php">
+        <div class="thead">
+            PPT-<em>Flyer </em> <sup><small>1.0</small></sup>
+        </div>
+        </a>
+        <div class="tdata">
+            We are designing the most user intuitive calculator ever created. Our goal with this is to allow you to be able to focus on your work rather than spend hours learning your tool and memorizing paths to access a high powered operation.
+        </div>
+    </div>
+
+    <div class="mvbuffer"></div>
+
+    <dive class="fcenter">
+    <a href="https://twitter.com/Paper_Plane_Tec" target="_blank">
+        <div class="thead">
+            Twitter        
+        </div>
+    </a>
+        <div class="tdata">
+            Follow us on twitter to be in the loop of what we are up to.
+        </div>
+    </dive>
+    
+    <div class="mvbuffer"></div>
+    
+    <div class="fcenter">
+        <a href="apply.php">
+            <div class="thead">
+                Apply
+            </div>
+        </a>
+        <div class="tdata">
+            We are looking to grow and begin new things if you think you have what it takes to join our team contact us.
+        </div>
+    </div>
+    <div class="vbuffer"></div>
+</div>
+<div class="vbuffer"></div>
+<div class="bvbuffer"><img class="base" src="PPT%20WHT.png"></div>
+
+
